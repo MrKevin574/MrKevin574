@@ -54,7 +54,7 @@ My forte is making android applications but I am also passionate about computer 
 </p>
 
 
-<h1>Projects:</h1>
+<h1 align="center">Projects:</h1>
 
 
 <h2 align="center"> The community "Code Challenge" projects:</h2>
