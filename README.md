@@ -9,7 +9,7 @@
 
 *Hello, my name is Kevin Reyes, I am a self-taught Android developer.
 I have experience in software development using good architectures and design patterns.
-My forte is making android applications but I am also passionate about computer security and AI**
+My forte is making android applications but I am also passionate about computer security and AI*
 
 
 
@@ -53,6 +53,54 @@ My forte is making android applications but I am also passionate about computer 
 <a href="https://stackoverflow.com/users/18006480/mrkevin574" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-mrkevin574-blue"></a>
 <a href="mailto:mrkevin574@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-mrkevin574-important"></a>
 </p>
+
+## The community "Code Challenge" projects:
+
+<p align="center">
+ 
+<h3 align="center">  
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Starwars Enciclopedy</a>
+ </h3>
+ </p>
+ 
+ <h3 align="center">  
+Preview: 
+ </h3>
+
+![detailscreen](https://user-images.githubusercontent.com/73857138/175791998-9f0743ed-ed3e-4e01-83a2-4deb075357e4.jpg)
+
+ <h3 align="center">  
+Description: 
+ </h3>
+ 
+ <h3 align="center">  
+A basic application that consumes swapi API to be able to access all the objects that the starwars saga has. Whether characters, vehicles, starships, movies etc.
+ </h3>
+
+ <h3 align="center">  
+Tecnologies: 
+ </h3>
+
+
+<p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Kotlin</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">MVVM</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Jetpack Compose</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Dagger Hilt</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Retrofit</a>
+ </p>
+ <p align="center">
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Coroutines</a>
+ </p>
+
 
 
 
