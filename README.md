@@ -5,7 +5,48 @@
  
 ![kotlinandroid](https://user-images.githubusercontent.com/73857138/175789141-381e8d59-b932-4a79-b06b-214c109bb461.jpg)
 
+## Tecnologies
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Android</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!--
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=MrKevin574" alt="priyanshumay" />
@@ -21,24 +62,24 @@
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay">
+<a href="https://github.com/MrKevin574">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p><br>
 
-<!--
+
 **MrKevin574/MrKevin574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
