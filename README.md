@@ -63,19 +63,24 @@ My forte is making android applications but I am also passionate about computer 
  </h3>
  </p>
  
- <h3 align="center">  
-Preview: 
- </h3>
+ <p align="center">
+  <img width="400px" src="https://user-images.githubusercontent.com/73857138/175792117-4fd4875d-56bd-480d-ae84-6418e65a6cde.png" align="center" alt="Starwars" />
+ </p>
 
-![detailscreen](https://user-images.githubusercontent.com/73857138/175791998-9f0743ed-ed3e-4e01-83a2-4deb075357e4.jpg)
+
+
+ 
+
 
  <h3 align="center">  
 Description: 
  </h3>
  
- <h3 align="center">  
-A basic application that consumes swapi API to be able to access all the objects that the starwars saga has. Whether characters, vehicles, starships, movies etc.
- </h3>
+ <p align="center">
+  A basic application that consumes swapi API to be able to access all the objects that the starwars saga has. Whether characters, vehicles, starships, movies etc.
+ </p>
+
+
 
  <h3 align="center">  
 Tecnologies: 
