@@ -1,11 +1,19 @@
  
- ##  Android Developer 💘 
+ #  Android Developer 💘 
 
 
  
 ![kotlinandroid](https://user-images.githubusercontent.com/73857138/175789141-381e8d59-b932-4a79-b06b-214c109bb461.jpg)
 
-## Tecnologies
+## About me:
+
+*Hello, my name is Kevin Reyes, I am a self-taught Android developer.
+I have experience in software development using good architectures and design patterns.
+My forte is making android applications but I am also passionate about computer security and AI**
+
+
+
+## Skills:
 
 <table>
   <tbody>
@@ -36,6 +44,17 @@
     </tr>
   </tbody>
 </table>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">=
+<a href="https://www.linkedin.com/in/MrKevin574/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkdein-mrkevin574-blue"></a>
+<a href="https://stackoverflow.com/users/18006480/mrkevin574" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-mrkevin574-blue"></a>
+<a href="mailto:mrkevin574@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-mrkevin574-important"></a>
+</p>
+
+
 
 
 
