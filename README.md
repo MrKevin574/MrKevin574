@@ -46,13 +46,8 @@ My forte is making android applications but I am also passionate about computer 
 </table>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h1 align="center">Projects:</h1>
 
-<p align="center">=
-<a href="https://www.linkedin.com/in/MrKevin574/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkdein-mrkevin574-blue"></a>
-<a href="https://stackoverflow.com/users/18006480/mrkevin574" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-mrkevin574-blue"></a>
-<a href="mailto:mrkevin574@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-mrkevin574-important"></a>
-</p>
 
 ## The community "Code Challenge" projects:
 
@@ -108,7 +103,13 @@ Tecnologies:
 
 
 
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p align="center">=
+<a href="https://www.linkedin.com/in/MrKevin574/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkdein-mrkevin574-blue"></a>
+<a href="https://stackoverflow.com/users/18006480/mrkevin574" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-mrkevin574-blue"></a>
+<a href="mailto:mrkevin574@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-mrkevin574-important"></a>
+</p>
 
 
 <!--
