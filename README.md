@@ -1,9 +1,9 @@
  
  #  Android Developer 💘 
 
+![android-jetpack](https://user-images.githubusercontent.com/73857138/175795851-c68ac952-8ded-4c68-9669-59497665bba3.png)
 
- 
-![kotlinandroid](https://user-images.githubusercontent.com/73857138/175789141-381e8d59-b932-4a79-b06b-214c109bb461.jpg)
+
 
 ## About me:
 
