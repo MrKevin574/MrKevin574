@@ -67,12 +67,13 @@ My forte is making android applications but I am also passionate about computer 
  </p>
  
  <p align="center">
-  <img width="400px" src="https://user-images.githubusercontent.com/73857138/175792117-4fd4875d-56bd-480d-ae84-6418e65a6cde.png" align="center" alt="Starwars" />
+  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/175795892-66e5c36b-4958-4a47-88ce-83b4ef2eac53.jpg" align="center" alt="Starwars" />
  </p>
 
 
 
- 
+
+
 
 
  <h3 align="center">  
