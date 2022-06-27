@@ -92,22 +92,22 @@ Tecnologies:
 
 
 <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Kotlin</a>
+<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
  </p>
  <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">MVVM</a>
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
  </p>
  <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Jetpack Compose</a>
+<a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank">Jetpack Compose</a>
  </p>
  <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Dagger Hilt</a>
+<a href="https://dagger.dev/hilt/" target="_blank">Dagger Hilt</a>
  </p>
  <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Retrofit</a>
+<a href="https://square.github.io/retrofit/" target="_blank">Retrofit</a>
  </p>
  <p align="center">
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Coroutines</a>
+<a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
  </p>
 
 
