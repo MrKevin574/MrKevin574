@@ -109,56 +109,63 @@ Tecnologies:
  <p align="center">
 <a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
  </p>
+ 
+ 
+ **************************************************************************************************************
+ 
+ 
+ <h3 align="center">  
+<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Savannah Quiz</a>
+ </h3>
+ </p>
+ 
+ <p align="center">
+  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176320400-e87e7c1b-6ed0-4609-93e6-57c565da5375.jpg" align="center" alt="Savannah" />
+ </p>
 
 
 
 
 
 
-<!--
+
+ <h3 align="center">  
+Description: 
+ </h3>
+ 
+ <p align="center">
+ Time trial application to test your knowledge about savannahs
+ </p>
+
+
+
+ <h3 align="center">  
+Tecnologies: 
+ </h3>
+
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=MrKevin574" alt="priyanshumay" />
- <a href="https://github.com/MrKevin574"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
- <a href="https://www.linkedin.com/in/kevin-reyes-duran/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/MrKevin574">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-</a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/MrKevin574"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-
-</p><br>
+<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
+ </p>
+ <p align="center">
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank">Jetpack Compose</a>
+ </p>
+ <p align="center">
+<a href="https://dagger.dev/hilt/" target="_blank">Dagger Hilt</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/androidx/releases/room" target="_blank">Room</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
+ </p>
 
 
-**MrKevin574/MrKevin574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
