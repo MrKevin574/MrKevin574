@@ -115,12 +115,12 @@ Tecnologies:
  
  
  <h3 align="center">  
-<a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Savannah Quiz</a>
+<a href="https://github.com/MrKevin574/SavannahQuiz" target="_blank">Savannah Quiz</a>
  </h3>
  </p>
  
  <p align="center">
-  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176320400-e87e7c1b-6ed0-4609-93e6-57c565da5375.jpg" align="center" alt="Savannah" />
+  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176320379-51a0006c-cdea-4d29-8008-5f43db94f40f.jpg" align="center" alt="Savannah" />
  </p>
 
 
