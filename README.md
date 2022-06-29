@@ -120,7 +120,7 @@ Tecnologies:
  </p>
  
  <p align="center">
-  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176322076-4ef4513f-c7d1-46c5-8d58-308979b6b140.jpg" align="center" alt="Savannah" />
+  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176329487-eeabaeec-5662-4082-99e1-47bbc2fd91f2.jpg" align="center" alt="Savannah" />
  </p>
 
 
