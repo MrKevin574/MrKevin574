@@ -67,7 +67,7 @@ My forte is making android applications but I am also passionate about computer 
  </p>
  
  <p align="center">
-  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/175795892-66e5c36b-4958-4a47-88ce-83b4ef2eac53.jpg" align="center" alt="Starwars" />
+  <img width="180px" height="360px" src="https://user-images.githubusercontent.com/73857138/175795892-66e5c36b-4958-4a47-88ce-83b4ef2eac53.jpg" align="center" alt="Starwars" />
  </p>
 
 
@@ -120,7 +120,7 @@ Tecnologies:
  </p>
  
  <p align="center">
-  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/176329487-eeabaeec-5662-4082-99e1-47bbc2fd91f2.jpg" align="center" alt="Savannah" />
+  <img width="180px" height="360px" src="https://user-images.githubusercontent.com/73857138/176329487-eeabaeec-5662-4082-99e1-47bbc2fd91f2.jpg" align="center" alt="Savannah" />
  </p>
 
 
@@ -172,7 +172,7 @@ Tecnologies:
  </p>
  
  <p align="center">
-  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/177652613-c2fd78b9-9925-460b-8ea4-df328bff9305.jpg" align="center" alt="Pomodoro" />
+  <img width="180px" height="360px" src="https://user-images.githubusercontent.com/73857138/177652613-c2fd78b9-9925-460b-8ea4-df328bff9305.jpg" align="center" alt="Pomodoro" />
  </p>
 
 
