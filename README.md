@@ -162,6 +162,58 @@ Tecnologies:
  <p align="center">
 <a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
  </p>
+ 
+  **************************************************************************************************************
+ 
+ 
+ <h3 align="center">  
+<a href="https://github.com/MrKevin574/pomodoro/" target="_blank">Pomodoro</a>
+ </h3>
+ </p>
+ 
+ <p align="center">
+  <img width="110px" height="230px" src="https://user-images.githubusercontent.com/73857138/177652613-c2fd78b9-9925-460b-8ea4-df328bff9305.jpg" align="center" alt="Pomodoro" />
+ </p>
+
+
+
+
+
+
+
+ <h3 align="center">  
+Description: 
+ </h3>
+ 
+ <p align="center">
+ Application to put the pomodoro technique into practice
+ </p>
+
+
+
+ <h3 align="center">  
+Tecnologies: 
+ </h3>
+
+
+<p align="center">
+<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
+ </p>
+ <p align="center">
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank">Jetpack Compose</a>
+ </p>
+ <p align="center">
+<a href="https://dagger.dev/hilt/" target="_blank">Dagger Hilt</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/androidx/releases/room" target="_blank">Room</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
+ </p>
 
 
 
