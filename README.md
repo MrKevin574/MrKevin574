@@ -214,6 +214,59 @@ Tecnologies:
  <p align="center">
 <a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
  </p>
+ 
+ 
+ **************************************************************************************************************
+ 
+ 
+ <h3 align="center">  
+<a href="https://github.com/Rviewer-Challenges/Iwcb8LfYJci0G4yYqVMF" target="_blank">Memory Game</a>
+ </h3>
+ </p>
+ 
+ <p align="center">
+  <img width="180px" height="400px" src="https://user-images.githubusercontent.com/73857138/181595771-36570efb-0813-4093-b2ee-a0ff4463cb1c.jpg" align="center" alt="Memory Game" />
+ </p>
+
+
+
+
+
+
+
+
+ <h3 align="center">  
+Description: 
+ </h3>
+ 
+ <p align="center">
+ A memory game about dragon ball, the UI is not very beautiful, but the logic is
+ </p>
+
+
+
+ <h3 align="center">  
+Tecnologies: 
+ </h3>
+
+
+<p align="center">
+<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
+ </p>
+ <p align="center">
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank">Jetpack Compose</a>
+ </p>
+ <p align="center">
+<a href="https://dagger.dev/hilt/" target="_blank">Dagger Hilt</a>
+ </p>
+ <p align="center">
+ <p align="center">
+<a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
+ </p>
+
 
 
 
