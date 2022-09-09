@@ -62,6 +62,59 @@ My forte is making android applications but I am also passionate about computer 
 <p align="center">
  
 <h3 align="center">  
+<a href="https://github.com/Rviewer-Challenges/sE1ulBLQVhWLV0BnKtch" target="_blank">Firebase Chat</a>
+ </h3>
+ </p>
+ 
+ <p align="center">
+  <img width="180px" height="400px" src="https://user-images.githubusercontent.com/73857138/189376631-9111ff40-11e3-45ca-845d-decc2d2864fd.jpeg" align="center" alt="Starwars" />
+ </p>
+
+
+
+
+
+
+ <h3 align="center">  
+Description: 
+ </h3>
+ 
+ <p align="center">
+  Chat application using firebase's realtime database..
+ </p>
+
+
+
+ <h3 align="center">  
+Tecnologies: 
+ </h3>
+
+
+<p align="center">
+<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
+ </p>
+ <p align="center">
+<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/jetpack/compose?hl=es-419" target="_blank">Jetpack Compose</a>
+ </p>
+ <p align="center">
+<a href="https://dagger.dev/hilt/" target="_blank">Dagger Hilt</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/training/data-storage/room" target="_blank">Room</a>
+ </p>
+ <p align="center">
+<a href="https://developer.android.com/kotlin/coroutines?hl=es-419" target="_blank">Coroutines</a>
+ </p>
+ 
+ 
+ **************************************************************************************************************
+
+<p align="center">
+ 
+<h3 align="center">  
 <a href="https://github.com/MrKevin574/StarWarsEncyclopedia" target="_blank">Starwars Enciclopedy</a>
  </h3>
  </p>
