@@ -93,6 +93,15 @@ Tecnologies:
 <p align="center">
 <a href="https://kotlinlang.org/" target="_blank">Kotlin</a>
  </p>
+  <p align="center">
+<a href="https://firebase.google.com/docs/database" target="_blank">Firebase Realtime database</a>
+ </p>
+  <p align="center">
+<a href="https://firebase.google.com/docs/auth" target="_blank">Firebase Authentication</a>
+ </p>
+  <p align="center">
+<a href="https://firebase.google.com/docs/auth" target="_blank">Firestore</a>
+ </p>
  <p align="center">
 <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel" target="_blank">MVVM</a>
  </p>
